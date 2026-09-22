@@ -1,0 +1,1 @@
+Tetrahedron Source: https://graphics.stanford.edu/~mdfisher/Data/Meshes/tetrahedron.obj
