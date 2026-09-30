@@ -1,6 +1,13 @@
 ### CubeShooter
 
-<video src="https://www.youtube.com/watch?v=bf_B2TSh654" width="320" height="240" controls></video>
+Demo Video: https://www.youtube.com/watch?v=bf_B2TSh654
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bf_B2TSh654" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Controls:
+T, F, G, H to move the player; L to shoot
+
+MEDIA SOURCES:
+"Victory!" composed, performed, mixed and mastered by Viktor Kraus 
+"Space Boss Battle" Music by Matthew Pablo
+"8-bit - Crisis!" by HydroGene
+-> all from OpenGameArt.org
 
