@@ -42,4 +42,4 @@ set_target_properties(VulkanEngineLib PROPERTIES
              IMPORTED_LOCATION_DEBUG ${VulkanEngine}/lib/Debug/vulkanengine.lib
              )
 
-target_link_libraries(physicsexample AssimpLib VulkanEngineLib ${VulkanEngine}/external/glfw/lib-vc2022/glfw3.lib)
+target_link_libraries(cubeshooter AssimpLib VulkanEngineLib ${VulkanEngine}/external/glfw/lib-vc2022/glfw3.lib)
