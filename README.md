@@ -24,4 +24,4 @@ It implements A* algorithm for enemy behavior, different gravitational forces fo
 
 ### Video Demo
 
-<[https://github.com/fini03/QuackBlast/assets/112564342/78a74482-4bbe-4b39-aaa7-d2461315babf](https://github.com/Cyronio/CubeShooter/blob/master/CubeShooter.mp4)>
+<https://github.com/Cyronio/CubeShooter/blob/master/CubeShooter.mp4>
